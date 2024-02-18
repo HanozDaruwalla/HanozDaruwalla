@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HanozDaruwalla
 - 👀 I’m interested in Programming, Table Tennis, Football, Tennis
-- 🌱 I’m currently learning BSc Computer Science
+- 🌱 I’m currently studying BSc Computer Science (Final Year)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Hanozdaru@outlook.com
+- 📫 How to reach me hanozdaru@outlook.com
 
 <!---
 HanozDaruwalla/HanozDaruwalla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
